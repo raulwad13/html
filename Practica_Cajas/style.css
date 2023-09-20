@@ -1,0 +1,61 @@
+h1 {
+    background-color: rgb(224, 208, 115);
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    text-align: justify;
+    
+}
+
+
+.textexorcismo {
+    border-style: inset;
+    border-color: black;
+    justify-content: center;
+    background-color: rgb(224, 208, 115);
+    columns: 3;
+    padding: 20px;
+    
+}
+.textmono {
+    border-style: inset;
+    border-color: black;
+    justify-content: center;
+    background-color: rgb(226, 212, 131);
+    columns: 3;
+    padding: 20px;}
+
+
+ .textplanta {
+    border-style: inset;
+    border-color: black;
+    justify-content: center;
+    background-color: rgb(226, 212, 131);
+    columns: 3;
+    padding: 20px;
+}
+
+.textpeques {
+    border-style: inset;
+    border-color: black;
+    justify-content: center;
+    background-color: rgb(226, 212, 131);
+    columns: 3;
+    padding: 20px;}
+
+.textpopaux {
+    border-style: inset;
+    border-color: black;
+    justify-content: center;
+    background-color: rgb(226, 212, 131);
+    columns: 3;
+    padding: 20px;
+}
+
+ img {
+    display: block;
+    margin: auto;
+    border-style: inset;
+ }
+
